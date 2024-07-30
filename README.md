@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @taraippolito
 
-I am a National Science Foundation Graduate Research Fellow getting my PhD at University of Colorado Boulder in Environmental Studies. 
-I work on estimating and assessing how soil and climate uniquely interact to drive agricultural outcomes and using these insights to identify pathways for improving yields and soil health. Drop me a line if you're interested in my work or have any questions.  
+I'm a computational scientist with extensive experience using advanced analytical methods to explore environmental and agronomic problems. I am particularly adept at leveraging publicly available data to answer questions in data scarce settings and parsing scientific literature to find novel methodologies from a variety of domains. I currently work as a postdoc on the Global Soil Health Team at Syngenta Group where I build science-based analytical tools in collaboration with internal and external partners to support agronomic and soil health outcomes. 
+
+- Python - Geospatial data analysis - Machine Learning - Remote Sensing -
+
+
+
 
 
